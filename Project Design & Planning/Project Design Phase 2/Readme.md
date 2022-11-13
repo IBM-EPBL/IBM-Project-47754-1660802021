@@ -1,4 +1,4 @@
 - [x] Data Flow Diagram <br>
 - [x] Solution Requirements <br>
-- [ ] Technology Stack <br>
+- [x] Technology Stack <br>
 - [ ] Customer Journey Map <br>
